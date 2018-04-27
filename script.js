@@ -1,4 +1,4 @@
-var x = document.getElementById("musicOne");
+var x = document.getElementById("sourceOne");
 function calm(){
   return x.play();
 }
